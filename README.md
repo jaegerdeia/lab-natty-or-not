@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+ Olá, sou um gatinho fofo.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+ Apenas um gato fofo, usando IAS Generativas parece um gato real
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ Criei uma imagem com IA Generativa Leonardo.AI
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+ No site Leonardo.AI digitei o texto de "uma  imagem de um gato sentado na varanda da casa". e adicionei o texto Olá, sou um gatinho fofo.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Apresente os resultados do seu projeto (https://app.leonardo.ai/image-generation)
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Está sendo um desafio aprender sobre inteligência Artificial. 
+
 
 ### Exemplos e Insigths
 
